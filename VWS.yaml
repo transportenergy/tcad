@@ -1,0 +1,7 @@
+id: VWS
+
+name: Vehicle weight standards
+
+classifiers:
+- "Mode :: Road"
+- "Type :: Regulatory instrument"

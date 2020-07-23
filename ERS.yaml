@@ -1,0 +1,7 @@
+id: ERS
+
+name: Electric Road Systems
+
+classifiers:
+- "Mode :: Road"
+- "Type :: Enhancement of infrastructure"

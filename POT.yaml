@@ -1,0 +1,8 @@
+
+id: POT
+
+name: Vehicle purchase and ownership taxes
+
+classifiers:
+- "Mode :: Road"
+- "Type :: Fiscal / financial instrument"

@@ -1,0 +1,7 @@
+id: HCV
+
+name: High Capacity Vehicles
+
+classifiers:
+- "Mode :: Road"
+- "Type :: Regulatory instrument"

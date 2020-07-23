@@ -1,0 +1,7 @@
+id: VES
+
+name: Vehicle efficiency standards
+
+classifiers:
+- "Mode :: Road"
+- "Type :: Regulatory instrument"

@@ -1,0 +1,7 @@
+id: RMA
+
+name: Rural MaaS (incorporating Demand Responsive Transport for peri-urban and rural areas)
+
+classifiers:
+- "Mode :: Road"
+- "Type :: Stimulation of innovation and development"

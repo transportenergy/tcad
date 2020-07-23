@@ -1,0 +1,7 @@
+id: LAB
+
+name: Vehicle / fuel labelling
+
+classifiers:
+- "Mode :: Road"
+- "Type :: Regulatory instrument"

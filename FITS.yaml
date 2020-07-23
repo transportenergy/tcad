@@ -1,0 +1,7 @@
+id: FITS
+
+name: Intelligent Transport Systems (freight) / Capacity increases in rail by automatization and digitalization
+
+classifiers:
+- "Mode :: Rail"
+- "Type :: Enhancement of infrastructure"

@@ -1,0 +1,7 @@
+id: PUD
+
+name: Drop off collection points / pick up consolidation
+
+classifiers:
+- "Mode :: Road"
+- "Type :: Operational / management"

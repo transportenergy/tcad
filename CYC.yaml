@@ -1,0 +1,23 @@
+id: CYC
+
+classifiers:
+- "Mode :: Road"
+- "Scope :: National"
+- "Scope :: Local"
+- "Type :: Enhancement of Infrastructure"
+
+description: >-
+  Well connected, high quality cycling infrastructure plays a significant role in encouraging mode shift to cycling from driving. Car trips less than 5km are considered 'switchable' to cycling in the literature. While most successful in urban areas with a high density of short trips, cycling can play a strong role in non-urban areas especially when combined with other sustainable modes.
+
+  Studies have found distance/travel time, topography, and perceived safety are strong determinants of cycling uptake. Infrastructure, and policies to increase the speed and comfort of door-to-door travel, will have the strongest impact. This includes creating direct routes, minimising intersections, minimising changes in elevation, favourable traffic light control, allowing contraflow traffic, cycle lifts, e-bike sharing, and providing easily accessible, at-grade storage at the beginning and end of journeys. Studies demonstrate isolated improvements have little impact on mode shift; networks of infrastructure that connect users with desired destinations are much more successful in encouraging uptake.
+
+  In commuter towns, there is large potential for cycling to rail stations. In the UK, 60% of the population lives within 15 minutes of cycling to a rail station, but only 2% of users’ cycle to the station. Having the facilities and confidence to cycle to the station as part of a daily commute encourages an overall more sustainable trip compared to driving the whole route. It can also reduce the need for car ownership, which can then encourage more sustainable trip choices for non-commute trips as well. With the rising popularity of e-bikes, the preferred range for active travel can also be extended comfortably from around 5km to over 10km. They are also more accessible to individuals with limited mobility, encourage car-free households, and allow farther travel. They have strong potential in peri-urban areas if there is access to infrastructure.
+
+  While short car trips (<5km) make up a larger portion of trips - half of all trips in a Cardiff, Wales study (Neves and Brand, 2019) and two thirds of trips in Germany (Ahrens, G. et al., 2013) for example - their collective carbon impact is smaller. Almost 75% of emissions are from the 15% of trips which are long trips. Therefore, the potential for direct CO2 reduction with increased cycling is lower than other measures. While the main driver for cycling infrastructure may not be decarbonisation, it is a co-benefit to the health and safety impacts, congestion alleviation, and built environment improvements which can be the primary reason to encourage cycling.
+
+costs:
+  Costs associated with this measure include enhanced infrastructure for cycling, parking provision, and subsidies for bikes. Cycle infrastructure, while ideally separated from traffic (most expensive) can be provided with lower costs if traffic speeds are lowered and the streets are designed to provide shared space through signage and preferential signalling at intersections. Costs of dedicated infrastructure may be higher in rural areas simply due to the longer distances and lower density of use. However, separated infrastructure is especially important in areas with higher speed limits. These cycleways also simplify routing which can reduce barriers to uptake by new cyclists.
+
+  Cycle storage needs to be secure and covered from weather. This can range from well-designed bike racks with simple roof structures, to underground cycle parking with secure access. Partnering with bike repair shops and providing easily accessible maintenance services close to bike parking hubs would also help increase confidence among newer cyclists.
+
+  Infrastructure for charging e-bikes will likely become increasingly important as their popularity rises.

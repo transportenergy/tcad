@@ -1,0 +1,7 @@
+id: ELE
+
+name: Electrification of rail (Including energy recovery in rolling stock)
+
+classifiers:
+- "Mode :: Rail"
+- "Type :: Enhancement of infrastructure"

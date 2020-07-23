@@ -1,0 +1,7 @@
+id: VOL
+
+name: Voluntary programs to reduce emissions in logistics
+
+classifiers:
+- "Mode :: Road"
+- "Type :: Operational / management"

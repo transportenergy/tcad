@@ -1,0 +1,7 @@
+id: APP
+
+name: Procurement of alternatively powered rolling stock (hydrogen or battery)
+
+classifiers:
+- "Mode :: Rail"
+- "Type :: Enhancement of Infrastructure"

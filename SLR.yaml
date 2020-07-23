@@ -1,0 +1,7 @@
+id: SLR
+
+name: Setting lower speed limits (Inter-urban roads / highways / motorways)
+
+classifiers:
+- "Mode :: Road"
+- "Type :: Regulatory instrument"

@@ -1,0 +1,7 @@
+id: HOV
+
+name: Access regulations (for example HOV / low-emission lanes)
+
+classifiers:
+- "Mode :: Road"
+- "Type :: Regulatory instrument"

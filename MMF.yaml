@@ -1,0 +1,7 @@
+id: MMF
+
+name: Multimodal freight interfaces
+
+classifiers:
+- "Mode :: Multiple"
+- "Type :: Enhancement of infrastructure"

@@ -1,0 +1,7 @@
+id: BAN
+
+name: ICE / Diesel bans
+
+classifiers:
+- "Mode :: Road"
+- "Type :: Regulatory instrument"

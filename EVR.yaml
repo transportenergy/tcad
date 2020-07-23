@@ -1,0 +1,39 @@
+id: EVR
+
+name: EV readiness requirements for new/refurbished buildings
+
+classifiers:
+- "Mode :: Road"
+- "Scope :: National"
+- "Type :: Regulatory instrument"
+
+description: >-
+  Easy access to charging infrastructure has been shown to have an impact on willingness to purchase an electric vehicle (EV). An increasing number of countries have legislated to install EV charging infrastructure for new or renovated buildings to meet projected increasing EV demand. The "EV readiness" requirement (provision of necessary conduits and wiring to parking spaces enabling chargers to be installed subsequently) ensures that new and renovated buildings are in a position to contribute to the expansion of the EV charging network, without placing the entire cost for the installation and connection of the chargers on either the developer or occupier. The Energy Performance Building Directive (EPBD), approved in the EU, mandates that minimum levels of EV readiness be incorporated into building regulations for new and refurbished buildings. The directive stipulates minimum requirements to be used: for non-residential buildings, at least one-fifth of the parking spaces should be made ready for EV chargers, with at least one charger  installed for 10 spaces or more. Readiness requirements also apply to all spaces for residential buildings with more than 10 parking spaces. In France, legislation was set to mandate that 50–75% of parking bays in new and renovated residential buildings must be pre-installed with conduits. In California, the building code changes were suggested to increase percent of required EV charging spaces for new commercial buildings to 6%  and lower the parking lot size threshold to 10 parking spaces.
+
+cost:
+  In the case of California, the total statewide costs to install EV charging infrastructure was estimated at $30 million to $36 million based on on new construction projections between 2017 and 2020 for non-residential buildings.
+
+CO2 effect:
+  The CO2 impacts from this measure will come from the consequent penetration of electric vehicles into the fleet, and are subject to the carbon intensity of the electricity used to charge the vehicles.
+  Slow charging (for example in residential or office settings) could help with managing the load profile for the electricity demand, easing pressure on the grid by allowing electric vehicles to be charged outside of peak hours. Slow charging would also be more amenable to the use of renewable energy sources, as the vehicle can charge when the electiricity is available, rather than the supply needing to be guaranteed at a specific time.
+
+adverse effect:
+  The widespread application of this measure could necessitate an update to other elements of the building regulations
+
+references:
+- area: US-CA
+  citation: >-
+    @article{brown-2010,
+      author = {Brown and Pyke and Steenhoff},
+      doi = {10.1016/j.enpol.2010.02.059},
+      title = {Electric vehicles: The role and importance of standards in an emerging market},
+      year = {2010},
+    }
+- area: CH, FI
+  citation: >-
+    @article{melliger-2018,
+      author = {Melliger, M. A. and van Vliet, O. and Liimatainen, H.},
+      doi = {10.1016/j.trd.2018.08.011},
+      title = {Anxiety vs reality – Sufficiency of battery electric vehicle range in Switzerland and Finland},
+      year = {2018},
+    }
