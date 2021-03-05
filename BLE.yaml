@@ -2,5 +2,6 @@ id: BLE
 
 name: Fuel blending mandates
 
+classifiers:
 - "Mode :: Multiple - Fuel"
 - "Type :: Regulatory instrument"

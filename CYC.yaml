@@ -1,5 +1,7 @@
 id: CYC
 
+name: Enhanced cycle provision
+
 classifiers:
 - "Mode :: Road"
 - "Scope :: National"
